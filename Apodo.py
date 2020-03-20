@@ -29,7 +29,7 @@ def main():
         while True:
             random_name = random.choice(first_bank) + ' ' + random.choice(last_bank)
             time.sleep(1)
-            print('GENERATING NAME!')
+            print('GENERATING FALSE NAME!')
             time.sleep(1)
             print('      BEEP!')
             time.sleep(1)
@@ -37,14 +37,14 @@ def main():
             time.sleep(1)
             print('      BOINK!')
             time.sleep(1)
-            print ('Your new falsname is... ' + random_name)
+            print ('Your new pseudonym is... ' + random_name)
             response = input('Is this acceptable? y/n -->')
             if response == 'y':
                 print ('Then you shall henceforth be known as '
                        + random_name)
                 break
             else: 
-                print('Alright we are doing this again')
+                print('Alright generating new false name')
         print ('Thank you for using the Apodo')
 
     else:

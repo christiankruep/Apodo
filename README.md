@@ -1,14 +1,12 @@
-
 <h1 align="center">Apodo</h1>
 
 <h3 align ="center">State of the art false name generator</h3>
 <br>
 
-
 Features
 --------
 
-- Highly sophisticated alias name generation
+- Highly sophisticated unique alias name generation
 - Cutting edge command-line graphics
 - Light weight and efficent
   
@@ -16,15 +14,14 @@ Features
 Installation
 ------------
 
-Apodo can be installed via two ways: 
+Apodo can be installed via: 
 
 Cloning the repo from GitHub:
   ```
   git clone https://github.com/ckruep/Apodo.git
   ```
-or by downloading a executable version of [Apodo] (https://www.google.com/).
 
-
+  The GitHub repo includes both the raw code and a compiled version of Apodo.
 
 Contribute
 ----------
@@ -32,6 +29,8 @@ There is not really much here to contribute on
 
 Support
 -------
+If you are having issues please let me know.
+Email me at: ckruep@zagmail.gonzaga.edu
 
 License
 -------

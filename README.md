@@ -23,13 +23,10 @@ Cloning the repo from GitHub:
 
   The GitHub repo includes both the raw code and a compiled version of Apodo.
 
-Contribute
-----------
-There is not really much here to contribute on 
-
-Support
+Contribute & Support 
 -------
-If you are having issues please let me know.
+If you are having issues or wish to contribute please let me know.
+
 Email me at: ckruep@zagmail.gonzaga.edu
 
 License

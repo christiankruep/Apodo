@@ -21,11 +21,11 @@ def main():
                  'McNulty', 'Flagstaff', 'Guster', 'Coyote')
 
     print ('\nWelcome to Apodo')
-    print ('state of the art false name generator')
+    print ('State of the art false name generator')
     print ('Would you like generate a false name? y/n')
     response = input('-->')
 
-    if response == 'yes' or response == 'y':
+    if response == 'y':
         while True:
             random_name = random.choice(first_bank) + ' ' + random.choice(last_bank)
             time.sleep(1)

@@ -16,13 +16,19 @@ Features
 Installation
 ------------
 
-Install Apodo by running:
+Apodo can be installed via two ways: 
 
-    install project
+Cloning the repo from GitHub:
+  ```
+  git clone https://github.com/ckruep/Apodo.git
+  ```
+or by downloading a executable version of [Apodo] (https://www.google.com/).
+
+
 
 Contribute
 ----------
-If you want to suggest names or features 
+There is not really much here to contribute on 
 
 Support
 -------
@@ -51,16 +57,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-## Getting Started
-x 
-There are two ways of getting started:
-- [Download a compiled version]
-- Clone the repo `https://github.com/ckruep/AcmeFalseNameGenerator.git`
-
-
-
-
 

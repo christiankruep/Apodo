@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://www.allaboutbirds.org/sgapp/images/silos/icon-pigeon.png" width="200px">
+<div>
 <h1 align="center">Apodo</h1>
 
 <h3 align ="center">State of the art false name generator</h3>

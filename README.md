@@ -7,6 +7,7 @@
 <h3 align ="center">State of the art false name generator</h3>
 <br>
 
+<a href="https://ckruep.github.io/Apodo/">Apodo Website</a>
 Features
 --------
 
@@ -31,7 +32,7 @@ Contribute & Support
 -------
 If you are having issues or wish to contribute please let me know.
 
-Email me at: ckruep@zagmail.gonzaga.edu
+Email me at: christiankruep@me.com
 
 License
 -------

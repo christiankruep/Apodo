@@ -13,6 +13,7 @@ fresh morning dew and consternation free cashews. Apodo generates fake names
 from a exhaustive selection of names.
 
 Apodo comes in two forms. A standalone program and as a backend service; a REST API.
+[Python](https://www.python.org/) is required to run both.
 
 Features
 --------
@@ -40,20 +41,35 @@ then run the file:
 
     python Apodo.py
 
-Running the Flask version as you might have guessed, requires [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/):
-
+Running the Flask version as you might have guessed, requires [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/) to run. To do so
 
 Navigate down into the repo to the Flask folder:
 
     cd Apodo/flask
 
-Activate the virtual enviornment:
+Build a virtual environment:
+
+    python3 -m venv venv
+
+Activate the environment:
 
     . venv/bin/activate
+
+Install Flask:
+
+    pip install Flask
+
+Activate the Flask app:
+
+    python3 ApodoFlask.py
 
 To test out the API go to:
 
 http://127.0.0.1:5000/api/v1/resources/names/random_name
+
+Creating a virtual environment and installing Flask only need to be done the first time.
+Activating the environment is required to run the app.
+
 
 Support
 -------
